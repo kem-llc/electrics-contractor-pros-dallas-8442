@@ -1,0 +1,324 @@
+{
+  "business": {
+    "name": "Electrics Contractor Pros",
+    "shortName": "ECP Dallas",
+    "tagline": "Your Trusted Dallas Electrical Experts",
+    "niche": "Electrician",
+    "phone": "(214) 276-8442",
+    "address": "501 Commerce St, Dallas, TX 75202",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 7am-7pm, Sat 8am-4pm, Sun closed",
+    "ctaLabel": "Get a Free Quote"
+  },
+  "seo": {
+    "title": "Electrics Contractor Pros | Dallas Electrician | Electrical Services",
+    "description": "Top-rated Dallas electrician with 5.0 stars. Expert electrical repairs, installations, and upgrades. Call (214) 276-8442 for fast, reliable service."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas's Premier Electrician",
+      "headline": "Expert Electrical Solutions for Your Home & Business",
+      "subheadline": "From emergency repairs to full rewiring, our licensed electricians deliver safe, code-compliant work with a 100% satisfaction guarantee.",
+      "primaryCta": "Request Service",
+      "secondaryCta": "Call (214) 276-8442"
+    },
+    "stats": [
+      {
+        "value": "5.0",
+        "label": "Average Rating"
+      },
+      {
+        "value": "500+",
+        "label": "Projects Completed"
+      },
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "99%",
+        "label": "On-Time Service"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Residential & Commercial",
+        "title": "Full-Service Electrical Contractor in Dallas",
+        "body": "Whether you need a simple outlet repair or a complete panel upgrade, Electrics Contractor Pros handles it all. Our team is licensed, bonded, and insured for your peace of mind.",
+        "bullets": [
+          "24/7 emergency service available",
+          "Free estimates on all major projects",
+          "Senior & military discounts"
+        ],
+        "reverse": false,
+        "cardLabel": "Safety First",
+        "cardTitle": "Code-Compliant Work",
+        "cardBody": "Every job meets or exceeds National Electrical Code standards. We pull permits and schedule inspections so you're fully protected."
+      },
+      {
+        "eyebrow": "Cutting-Edge Technology",
+        "title": "Smart Home & Energy Efficiency",
+        "subheadline": "Upgrade your home with smart switches, dimmers, thermostats, and energy-saving LED lighting. Save money and increase comfort.",
+        "body": "Our electricians are trained on the latest smart home systems. We install and configure everything from smart panels to whole-home surge protectors.",
+        "bullets": [
+          "Smart thermostat installation",
+          "LED lighting retrofits",
+          "EV charger installation"
+        ],
+        "reverse": true,
+        "cardLabel": "Energy Savings",
+        "cardTitle": "Reduce Your Bill",
+        "cardBody": "Switching to LED can cut lighting costs by up to 75%. We'll help you choose the best fixtures for your space."
+      }
+    ],
+    "whyTitle": "Why Choose Electrics Contractor Pros?",
+    "whyChooseUs": [
+      {
+        "title": "Licensed & Insured",
+        "description": "Fully licensed in Texas with liability and worker's comp insurance. Your property is protected."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Upfront flat-rate pricing with no hidden fees. You'll know the cost before we start."
+      },
+      {
+        "title": "Same-Day Service",
+        "description": "Most service calls are scheduled within 24 hours. Emergency slots available."
+      },
+      {
+        "title": "5-Star Reputation",
+        "description": "Rated 5.0 stars by our customers. We don't rest until you're completely satisfied."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "They rewired our entire 1920s home. Professional, clean, and on budget. Highly recommend!",
+        "author": "Sarah M.",
+        "role": "Homeowner, Dallas"
+      },
+      {
+        "quote": "Called at 9 PM for a power outage. They arrived within an hour and fixed it fast. Amazing service.",
+        "author": "James T.",
+        "role": "Business Owner, Dallas"
+      },
+      {
+        "quote": "Installed a new panel and EV charger. Explained everything clearly. Great experience.",
+        "author": "Linda R.",
+        "role": "Homeowner, Dallas"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Get Started?",
+      "subheadline": "Call us or book online for a free estimate. Same-day service available.",
+      "primaryCta": "Book Now",
+      "secondaryCta": "Call (214) 276-8442"
+    }
+  },
+  "servicesPage": {
+    "intro": "From minor repairs to major installations, our Dallas electricians handle it all with expertise and care. Every service comes with our 100% satisfaction guarantee."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Electrical Repairs & Troubleshooting",
+      "shortDescription": "Fast, reliable repairs for outlets, switches, breakers, and more.",
+      "longDescription": "Our experienced electricians diagnose and fix electrical issues quickly. Whether it's a flickering light, a dead outlet, or a tripping breaker, we'll find the root cause and repair it safely. We use advanced diagnostic tools to minimize downtime.",
+      "benefits": [
+        "Same-day service for urgent repairs",
+        "Accurate diagnosis with thermal imaging",
+        "Permanent fixes, not temporary patches",
+        "Warranty on all repair work"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We inspect the issue and test circuits to pinpoint the problem."
+        },
+        {
+          "title": "Repair Plan",
+          "description": "We explain the repair needed, provide a flat-rate quote, and get your approval."
+        },
+        {
+          "title": "Completion",
+          "description": "We perform the repair, clean up, and test everything to ensure it works perfectly."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How quickly can you respond to an electrical emergency?",
+          "answer": "We offer 24/7 emergency service. In most cases, we can have a technician at your location within 1-2 hours."
+        },
+        {
+          "question": "Do you charge for estimates?",
+          "answer": "No, all estimates are free. We provide a detailed quote before any work begins."
+        }
+      ],
+      "slug": "electrical-repairs-troubleshooting"
+    },
+    {
+      "icon": "02",
+      "title": "Panel Upgrades & Rewiring",
+      "shortDescription": "Upgrade your electrical panel or rewire your home for safety and capacity.",
+      "longDescription": "Older homes often have outdated panels that can't handle modern loads. Our panel upgrades increase capacity and improve safety. We also offer full or partial rewiring for homes with knob-and-tube or aluminum wiring.",
+      "benefits": [
+        "Eliminate flickering lights and tripping breakers",
+        "Support for modern appliances and electronics",
+        "Increased home value and insurance savings",
+        "Compliant with latest electrical codes"
+      ],
+      "process": [
+        {
+          "title": "Assessment",
+          "description": "We evaluate your current panel and load requirements."
+        },
+        {
+          "title": "Permitting",
+          "description": "We handle all permits and schedule inspections."
+        },
+        {
+          "title": "Installation",
+          "description": "Professional installation with minimal disruption. We test and verify."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I know if I need a panel upgrade?",
+          "answer": "Signs include frequent breaker trips, buzzing sounds, or if your panel is over 25 years old. We offer free inspections."
+        },
+        {
+          "question": "How long does a panel upgrade take?",
+          "answer": "Most upgrades are completed in one day. We'll coordinate with the utility for any necessary disconnects."
+        }
+      ],
+      "slug": "panel-upgrades-rewiring"
+    },
+    {
+      "icon": "03",
+      "title": "Lighting Installation & Design",
+      "shortDescription": "Indoor and outdoor lighting solutions for ambiance, security, and efficiency.",
+      "longDescription": "Transform your space with custom lighting. We install recessed, track, pendant, chandeliers, and landscape lighting. Our team also offers smart lighting controls for convenience and energy savings.",
+      "benefits": [
+        "Enhanced curb appeal with outdoor lighting",
+        "Energy savings with LED fixtures",
+        "Smart controls via app or voice",
+        "Professional design consultation"
+      ],
+      "process": [
+        {
+          "title": "Consultation",
+          "description": "We discuss your vision, budget, and needs."
+        },
+        {
+          "title": "Design",
+          "description": "We create a lighting plan with fixture recommendations."
+        },
+        {
+          "title": "Installation",
+          "description": "Expert installation and programming of smart features."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you install low-voltage landscape lighting?",
+          "answer": "Yes, we specialize in low-voltage systems that are safe and energy-efficient."
+        },
+        {
+          "question": "Do you offer dimmer switches?",
+          "answer": "Absolutely. We install dimmers and smart switches for any compatible fixture."
+        }
+      ],
+      "slug": "lighting-installation-design"
+    },
+    {
+      "icon": "04",
+      "title": "EV Charger Installation",
+      "shortDescription": "Professional installation of Level 2 EV chargers for your home or business.",
+      "longDescription": "Prepare for the future of transportation with a dedicated EV charging station. We install all major brands including Tesla, ChargePoint, and JuiceBox. Our work includes panel assessment, wiring, and mounting.",
+      "benefits": [
+        "Faster charging than standard outlets",
+        "Tax credits and rebates available",
+        "Future-proof your property",
+        "Warranty on parts and labor"
+      ],
+      "process": [
+        {
+          "title": "Site Visit",
+          "description": "We assess your panel capacity and determine the best location."
+        },
+        {
+          "title": "Permitting",
+          "description": "We secure necessary permits and coordinate with your utility."
+        },
+        {
+          "title": "Installation",
+          "description": "We install the charger, run conduit, and test the system."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do I need a permit for EV charger installation?",
+          "answer": "Yes, most municipalities require a permit. We handle that for you."
+        },
+        {
+          "question": "How long does installation take?",
+          "answer": "Typically 3-5 hours for a standard installation. More complex jobs may take longer."
+        }
+      ],
+      "slug": "ev-charger-installation"
+    }
+  ],
+  "about": {
+    "headline": "Dallas's Trusted Electrical Contractor Since 2008",
+    "mission": "To provide safe, reliable, and affordable electrical services that exceed customer expectations.",
+    "story": [
+      "Electrics Contractor Pros was founded by master electrician John Davis, who saw a need for honest, high-quality electrical work in Dallas. Starting with a single truck, John built a reputation for integrity and craftsmanship. Today, we're a team of 15 licensed electricians serving thousands of satisfied customers.",
+      "We believe in continuous training, using the latest tools, and treating every home like our own. Our 5.0-star rating reflects our commitment to excellence. Whether it's a small repair or a large commercial project, we bring the same dedication to every job."
+    ],
+    "highlight": {
+      "stat": "500+",
+      "label": "Happy Customers"
+    },
+    "coreValues": [
+      {
+        "title": "Safety",
+        "description": "We never compromise on safety. Every job follows strict protocols."
+      },
+      {
+        "title": "Integrity",
+        "description": "Honest advice, transparent pricing, and no shortcuts."
+      },
+      {
+        "title": "Reliability",
+        "description": "We show up on time and finish on schedule."
+      },
+      {
+        "title": "Excellence",
+        "description": "Continuous improvement and mastery of our craft."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Contact Electrics Contractor Pros",
+    "subheadline": "We're here to help with all your electrical needs. Call or fill out the form.",
+    "primaryCta": "Call (214) 276-8442",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Fort Worth",
+      "Arlington",
+      "Plano",
+      "Garland",
+      "Irving"
+    ]
+  },
+  "social_proof": {
+    "rating": 5.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Electrician",
+    "generated_by": "deepseek"
+  },
+  "phone_href": "tel:2142768442",
+  "current_year": 2026
+}
