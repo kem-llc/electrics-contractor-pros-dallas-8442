@@ -10,19 +10,19 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Syne:wght@600;700;800&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="../assets/css/main.css" />
 </head>
-<body>
+<body class="">
   <div class="scroll-progress" aria-hidden="true"></div>
 
   <header class="site-header" data-header>
     <div class="container header-inner">
-      <a class="brand" href="../index.html">ECP Dallas</a>
+      <a class="brand" href="../index.html">EC Pros</a>
       <nav class="nav-desktop" aria-label="Main">
         <a href="../index.html" class="nav-link">Home</a>
         <a href="../services/index.html" class="nav-link">Services</a>
         <a href="../about.html" class="nav-link">About</a>
         <a href="../contact.html" class="nav-link">Contact</a>
       </nav>
-      <a class="btn btn-primary btn-sm header-cta" href="tel:2142768442">Get a Free Quote</a>
+      <a class="btn btn-primary btn-sm header-cta" href="tel:2142768442">Call Now</a>
       <button class="nav-toggle" type="button" aria-label="Open menu" data-nav-toggle>
         <span></span><span></span>
       </button>
@@ -32,13 +32,13 @@
       <a href="../services/index.html">Services</a>
       <a href="../about.html">About</a>
       <a href="../contact.html">Contact</a>
-      <a class="btn btn-primary" href="tel:2142768442">Get a Free Quote</a>
+      <a class="btn btn-primary" href="tel:2142768442">Schedule Your Electrical Service Today</a>
     </div>
   </header>
 
   <main>
 <section class="page-hero page-hero-compact">
-  <div class="container reveal">
+  <div class="container reveal" data-reveal="fade">
     <p class="eyebrow"><a href="../services/index.html">Services</a> / Panel Upgrades &amp; Rewiring</p>
     <h1>Panel Upgrades &amp; Rewiring</h1>
     <p class="page-lead">Upgrade your electrical panel or rewire your home for safety and capacity.</p>
@@ -46,60 +46,58 @@
   </div>
 </section>
 
-<section class="section">
+<section class="section" data-scroll-section>
   <div class="container detail-grid">
-    <div class="detail-main reveal">
+    <div class="detail-main reveal" data-reveal="left">
       <h2>Overview</h2>
-      <p class="detail-lead">Older homes often have outdated panels that can&#39;t handle modern loads. Our panel upgrades increase capacity and improve safety. We also offer full or partial rewiring for homes with knob-and-tube or aluminum wiring.</p>
+      <p class="detail-lead">Older homes often need panel upgrades to handle modern loads. Our team replaces outdated panels and rewires homes to meet current safety standards. We handle all permits and inspections, ensuring your system is safe and reliable.</p>
 
       <h3>What's included</h3>
       <ul class="feature-list">
         
-        <li>Eliminate flickering lights and tripping breakers</li>
+        <li class="reveal" data-reveal-delay="1">Increased electrical capacity</li>
         
-        <li>Support for modern appliances and electronics</li>
+        <li class="reveal" data-reveal-delay="2">Improved safety and fire prevention</li>
         
-        <li>Increased home value and insurance savings</li>
-        
-        <li>Compliant with latest electrical codes</li>
+        <li class="reveal" data-reveal-delay="3">Supports modern appliances and electronics</li>
         
       </ul>
 
       <h3>How it works</h3>
-      <div class="process-list">
+      <div class="process-list" data-stagger="100">
         
-        <article class="process-step">
+        <article class="process-step reveal">
           <span class="process-num">1</span>
           <div>
             <h4>Assessment</h4>
-            <p>We evaluate your current panel and load requirements.</p>
+            <p>We evaluate your current system and discuss your needs.</p>
           </div>
         </article>
         
-        <article class="process-step">
+        <article class="process-step reveal">
           <span class="process-num">2</span>
           <div>
             <h4>Permitting</h4>
-            <p>We handle all permits and schedule inspections.</p>
+            <p>We handle all necessary permits and schedule inspections.</p>
           </div>
         </article>
         
-        <article class="process-step">
+        <article class="process-step reveal">
           <span class="process-num">3</span>
           <div>
             <h4>Installation</h4>
-            <p>Professional installation with minimal disruption. We test and verify.</p>
+            <p>Our team installs the new panel or wiring with minimal disruption.</p>
           </div>
         </article>
         
       </div>
     </div>
 
-    <aside class="detail-sidebar reveal">
+    <aside class="detail-sidebar reveal" data-reveal="right" data-reveal-delay="2">
       <div class="sidebar-card">
         <h3>Request service</h3>
         <p>Same-day availability across Dallas, TX.</p>
-        <a class="btn btn-primary btn-block" href="tel:2142768442">(214) 276-8442</a>
+        <a class="btn btn-primary btn-block" href="tel:2142768442">(214) 276-8442</a>
       </div>
       <div class="sidebar-card">
         <h3>Service area</h3>
@@ -107,15 +105,23 @@
           
           <li>Dallas</li>
           
-          <li>Fort Worth</li>
+          <li>Highland Park</li>
           
-          <li>Arlington</li>
+          <li>University Park</li>
           
-          <li>Plano</li>
+          <li>Lakewood</li>
           
-          <li>Garland</li>
+          <li>Preston Hollow</li>
           
-          <li>Irving</li>
+          <li>Park Cities</li>
+          
+          <li>Oak Lawn</li>
+          
+          <li>Uptown</li>
+          
+          <li>Deep Ellum</li>
+          
+          <li>Bishop Arts District</li>
           
         </ul>
       </div>
@@ -123,19 +129,19 @@
   </div>
 </section>
 
-<section class="section section-muted">
+<section class="section section-muted" data-scroll-section>
   <div class="container">
     <h2 class="reveal">Common questions</h2>
-    <div class="faq-list">
+    <div class="faq-list" data-stagger="80">
       
       <details class="faq-item reveal">
-        <summary>How do I know if I need a panel upgrade?</summary>
-        <p>Signs include frequent breaker trips, buzzing sounds, or if your panel is over 25 years old. We offer free inspections.</p>
+        <summary>When should I upgrade my panel?</summary>
+        <p>If your panel is over 20 years old, uses fuses, or you experience frequent breaker trips, it&#39;s time for an upgrade.</p>
       </details>
       
       <details class="faq-item reveal">
         <summary>How long does a panel upgrade take?</summary>
-        <p>Most upgrades are completed in one day. We&#39;ll coordinate with the utility for any necessary disconnects.</p>
+        <p>Most panel upgrades are completed in one day, though older homes may require additional time.</p>
       </details>
       
     </div>
@@ -146,8 +152,8 @@
   <footer class="site-footer">
     <div class="container footer-grid">
       <div class="footer-brand">
-        <p class="footer-logo">ECP Dallas</p>
-        <p class="footer-tagline">Your Trusted Dallas Electrical Experts</p>
+        <p class="footer-logo">EC Pros</p>
+        <p class="footer-tagline">Dallas&#39;s Trusted Electrical Experts – Reliable, Safe, and Professional</p>
       </div>
       <div>
         <p class="footer-label">Menu</p>
@@ -160,8 +166,8 @@
       </div>
       <div>
         <p class="footer-label">Contact</p>
-        <a href="tel:2142768442">(214) 276-8442</a>
-        <p>501 Commerce St, Dallas, TX 75202</p>
+        <a href="tel:2142768442">(214) 276-8442</a>
+        <p>Done</p>
         <p>Dallas, TX</p>
       </div>
     </div>
@@ -171,6 +177,6 @@
     </div>
   </footer>
 
-  <script src="../assets/js/main.js"></script>
+  <script src="../assets/js/main.js" defer></script>
 </body>
 </html>
