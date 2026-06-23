@@ -2,315 +2,311 @@
   "business": {
     "name": "Electrics Contractor Pros",
     "shortName": "EC Pros",
-    "tagline": "Dallas's Trusted Electrical Experts – Reliable, Safe, and Professional",
+    "tagline": "Expert Electrical Contractors Serving Dallas & Beyond",
     "niche": "Electrician",
     "phone": "(214) 276-8442",
     "address": "Done",
-    "hours": "Mon-Fri 7am-6pm, Sat 8am-2pm, Sun Closed",
-    "ctaLabel": "Schedule Your Electrical Service Today",
-    "headerCta": "Call Now",
-    "city": "Dallas, TX"
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 7am-7pm, Sat 8am-4pm, Sun Emergency Only",
+    "ctaLabel": "Get a Free Estimate",
+    "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Best Electrician in Dallas, TX | Electrics Contractor Pros",
-    "description": "Top-rated electrician in Dallas, TX. Expert electrical services for residential and commercial. Licensed, insured, and trusted. Call (214) 276-8442 for fast, reliable service."
+    "title": "Top-Rated Electrician in Dallas, TX | Electrics Contractor Pros",
+    "description": "Electrics Contractor Pros offers expert electrical services in Dallas. From repairs to installations, our licensed electricians deliver safe, reliable solutions. Call (214) 276-8442 for a free estimate."
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas's Premier Electrical Contractor",
-      "headline": "Expert Electrical Services You Can Trust",
-      "subheadline": "From small repairs to full rewiring, our licensed electricians deliver safe, code-compliant solutions with transparent pricing and exceptional customer care.",
-      "primaryCta": "Get a Free Estimate",
-      "secondaryCta": "Call (214) 276-8442"
+      "eyebrow": "Dallas's Trusted Electrical Experts",
+      "headline": "Reliable Electrical Solutions for Your Home & Business",
+      "subheadline": "Licensed, insured electricians providing safe, efficient, and affordable electrical services across Dallas.",
+      "primaryCta": "Call (214) 276-8442",
+      "secondaryCta": "Get a Free Estimate"
     },
     "stats": [
       {
-        "value": "1,200+",
+        "value": "500+",
         "label": "Projects Completed"
       },
       {
-        "value": "99%",
-        "label": "Customer Satisfaction"
+        "value": "4.9",
+        "label": "Average Rating"
       },
       {
         "value": "15+",
         "label": "Years Experience"
       },
       {
-        "value": "4.9",
-        "label": "Average Rating"
+        "value": "100%",
+        "label": "Customer Satisfaction"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Residential Expertise",
-        "title": "Complete Home Electrical Solutions",
-        "body": "We handle everything from outlet repairs to whole-home rewiring. Our electricians ensure your family's safety with thorough inspections and quality workmanship.",
+        "eyebrow": "Residential & Commercial",
+        "title": "Full-Service Electrical Contracting",
+        "body": "From minor repairs to major installations, our team handles all electrical needs with precision and care. We prioritize safety, code compliance, and customer satisfaction.",
         "bullets": [
-          "Lighting installation & upgrades",
-          "Panel upgrades & troubleshooting",
-          "Ceiling fan & appliance wiring",
-          "Safety inspections & surge protection"
+          "Licensed and insured electricians",
+          "Upfront pricing with no hidden fees",
+          "Same-day service available"
         ],
         "reverse": false,
-        "cardLabel": "Peace of Mind",
-        "cardTitle": "Licensed & Insured",
-        "cardBody": "All work is performed by licensed electricians and fully insured, giving you confidence in every job."
+        "cardLabel": "Why Choose Us",
+        "cardTitle": "Safety First",
+        "cardBody": "Every job follows strict safety protocols to protect your property and family."
       },
       {
-        "eyebrow": "Commercial Reliability",
-        "title": "Powering Your Business",
-        "body": "Minimize downtime with our commercial electrical services. We work around your schedule to keep your operations running smoothly and safely.",
+        "eyebrow": "Emergency Services",
+        "title": "24/7 Emergency Electrical Repair",
+        "body": "Power outages, sparking outlets, or faulty wiring? Our emergency team is ready to respond quickly, any time of day or night.",
         "bullets": [
-          "New construction wiring",
-          "Data cabling & network setup",
-          "Emergency repairs & maintenance",
-          "Energy-efficient upgrades"
+          "Rapid response within 60 minutes",
+          "No overtime charges for emergencies",
+          "Fully stocked trucks for fast fixes"
         ],
         "reverse": true,
-        "cardLabel": "Fast Response",
-        "cardTitle": "24/7 Emergency Service",
-        "cardBody": "Electrical emergencies don't wait. We're available 24/7 for urgent repairs to protect your property."
+        "cardLabel": "Peace of Mind",
+        "cardTitle": "Always Available",
+        "cardBody": "We're here when you need us most — day or night, weekends and holidays."
       }
     ],
-    "whyTitle": "Why Dallas Homeowners Choose Us",
+    "whyTitle": "Why Dallas Homeowners Trust Us",
     "whyChooseUs": [
       {
-        "title": "Licensed & Insured Pros",
-        "description": "Every technician is fully licensed, bonded, and insured. We meet all local codes and safety standards."
+        "title": "Licensed & Insured",
+        "description": "Full liability insurance and state licensing for your protection."
       },
       {
         "title": "Transparent Pricing",
-        "description": "No hidden fees or surprise charges. You'll get a detailed estimate upfront before any work begins."
+        "description": "Free estimates with no surprises — we explain every cost upfront."
       },
       {
-        "title": "On-Time Guarantee",
-        "description": "We respect your time. Our technicians arrive within the scheduled window or you get a discount."
+        "title": "Experienced Team",
+        "description": "Master electricians with years of hands-on experience in residential and commercial work."
       },
       {
-        "title": "Quality Workmanship",
-        "description": "We use top-grade materials and proven techniques. Our work is backed by a satisfaction guarantee."
+        "title": "Guaranteed Workmanship",
+        "description": "All services backed by a 100% satisfaction guarantee."
       }
     ],
     "testimonials": [
       {
-        "quote": "They rewired our entire 1950s home and did an amazing job. The team was professional, clean, and explained every step. Highly recommend!",
-        "author": "Mark T.",
-        "role": "Lakewood Homeowner"
+        "quote": "They rewired our entire home efficiently and left it spotless. Highly recommend!",
+        "author": "Sarah M.",
+        "role": "Dallas Homeowner"
       },
       {
-        "quote": "Had a panel upgrade done quickly and at a fair price. The electrician was knowledgeable and friendly. Will use them for all future work.",
-        "author": "Linda P.",
-        "role": "Preston Hollow Resident"
+        "quote": "Fast response for an emergency outage. Professional and fair pricing.",
+        "author": "James T.",
+        "role": "Uptown Resident"
       },
       {
-        "quote": "Excellent service for our office building. They completed a large data cabling project on time and within budget. Very responsive.",
-        "author": "James R.",
-        "role": "Commercial Property Manager"
+        "quote": "Installed new lighting in our office. Great work, on time and on budget.",
+        "author": "Maria L.",
+        "role": "Small Business Owner"
       }
     ],
     "cta": {
       "headline": "Ready to Get Started?",
-      "subheadline": "Call us today or schedule online for a free estimate.",
-      "primaryCta": "Book Online",
-      "secondaryCta": "Call (214) 276-8442"
+      "subheadline": "Call us today for a free, no-obligation estimate.",
+      "primaryCta": "Call (214) 276-8442",
+      "secondaryCta": "Request Online Estimate"
     }
   },
   "servicesPage": {
-    "intro": "From minor fixes to major installations, Electrics Contractor Pros offers a full range of electrical services for homes and businesses in Dallas. Our licensed electricians deliver safe, reliable, and code-compliant work every time."
+    "intro": "From simple repairs to complex installations, Electrics Contractor Pros delivers expert electrical services tailored to your needs. Our licensed electricians serve Dallas and surrounding areas with professionalism and care."
   },
   "services": [
     {
       "icon": "01",
       "title": "Electrical Repairs & Troubleshooting",
-      "shortDescription": "Fast, reliable repairs for outlets, switches, breakers, and more.",
-      "longDescription": "When something goes wrong, you need a pro who can diagnose and fix it right the first time. Our electricians handle everything from flickering lights to dead outlets, using advanced tools to pinpoint issues quickly. We prioritize safety and ensure all repairs meet current code.",
+      "shortDescription": "Fast, reliable repairs for all electrical issues.",
+      "longDescription": "Our electricians diagnose and fix electrical problems quickly, from flickering lights to faulty outlets. We use advanced tools to identify issues and provide lasting solutions.",
       "benefits": [
-        "Same-day service available",
-        "Accurate diagnosis with thermal imaging",
-        "Long-lasting repairs with quality parts"
+        "Same-day service for urgent repairs",
+        "Thorough diagnosis to prevent recurrence",
+        "Upfront pricing before any work begins"
       ],
       "process": [
         {
           "title": "Diagnosis",
-          "description": "We inspect the issue and use diagnostic tools to identify the root cause."
+          "description": "We inspect and test to pinpoint the issue."
         },
         {
-          "title": "Repair Plan",
-          "description": "We explain the problem and provide a clear, upfront estimate."
+          "title": "Repair",
+          "description": "We fix the problem using quality parts and methods."
         },
         {
-          "title": "Completion",
-          "description": "We complete the repair efficiently and test everything to ensure safety."
+          "title": "Testing",
+          "description": "We verify everything works safely and correctly."
         }
       ],
       "faqs": [
         {
-          "question": "How much does an electrical repair cost?",
-          "answer": "Costs vary based on the issue. We provide free estimates so you know the price before any work begins."
+          "question": "How quickly can you respond to an electrical emergency?",
+          "answer": "We offer 24/7 emergency service and typically arrive within 60 minutes."
         },
         {
-          "question": "Do you offer emergency repairs?",
-          "answer": "Yes, we offer 24/7 emergency service for urgent electrical problems. Call us anytime."
+          "question": "Do you charge for estimates?",
+          "answer": "No, we provide free estimates with no obligation."
         }
       ],
       "slug": "electrical-repairs-troubleshooting"
     },
     {
       "icon": "02",
-      "title": "Panel Upgrades & Rewiring",
-      "shortDescription": "Upgrade your electrical panel or rewire your home for safety and capacity.",
-      "longDescription": "Older homes often need panel upgrades to handle modern loads. Our team replaces outdated panels and rewires homes to meet current safety standards. We handle all permits and inspections, ensuring your system is safe and reliable.",
+      "title": "Electrical Panel Upgrades",
+      "shortDescription": "Modernize your electrical system for safety and capacity.",
+      "longDescription": "Upgrade your outdated electrical panel to handle modern power demands. We install code-compliant panels that improve safety and prevent overloads.",
       "benefits": [
-        "Increased electrical capacity",
-        "Improved safety and fire prevention",
-        "Supports modern appliances and electronics"
+        "Increased capacity for appliances and electronics",
+        "Enhanced safety with modern breakers",
+        "Potential energy savings and home value boost"
       ],
       "process": [
         {
           "title": "Assessment",
-          "description": "We evaluate your current system and discuss your needs."
-        },
-        {
-          "title": "Permitting",
-          "description": "We handle all necessary permits and schedule inspections."
+          "description": "We evaluate your current panel and power needs."
         },
         {
           "title": "Installation",
-          "description": "Our team installs the new panel or wiring with minimal disruption."
+          "description": "We replace the panel with a high-quality unit."
+        },
+        {
+          "title": "Inspection",
+          "description": "We test the system and ensure code compliance."
         }
       ],
       "faqs": [
         {
-          "question": "When should I upgrade my panel?",
-          "answer": "If your panel is over 20 years old, uses fuses, or you experience frequent breaker trips, it's time for an upgrade."
+          "question": "How do I know if I need a panel upgrade?",
+          "answer": "If you have frequent breaker trips, use many high-power devices, or have an old fuse box, an upgrade is recommended."
         },
         {
           "question": "How long does a panel upgrade take?",
-          "answer": "Most panel upgrades are completed in one day, though older homes may require additional time."
+          "answer": "Most upgrades are completed in one day."
         }
       ],
-      "slug": "panel-upgrades-rewiring"
+      "slug": "electrical-panel-upgrades"
     },
     {
       "icon": "03",
-      "title": "Lighting Design & Installation",
-      "shortDescription": "Transform your space with custom lighting solutions.",
-      "longDescription": "Good lighting enhances safety, ambiance, and energy efficiency. We design and install interior and exterior lighting, from recessed and track lighting to landscape and security lighting. Our team helps you choose fixtures that match your style and budget.",
+      "title": "Lighting Installation & Design",
+      "shortDescription": "Beautiful, energy-efficient lighting for any space.",
+      "longDescription": "Transform your home or business with custom lighting solutions. We install indoor and outdoor fixtures, recessed lighting, smart controls, and more.",
       "benefits": [
-        "Energy-saving LED options",
-        "Custom designs for any space",
-        "Professional installation with clean finish"
+        "Energy-efficient LED options to save money",
+        "Custom designs to match your style",
+        "Professionally installed for safety and longevity"
       ],
       "process": [
         {
           "title": "Consultation",
-          "description": "We discuss your vision, needs, and budget."
+          "description": "We discuss your vision and assess the space."
         },
         {
-          "title": "Design Proposal",
-          "description": "We create a layout and recommend fixtures."
+          "title": "Design",
+          "description": "We create a lighting plan tailored to your needs."
         },
         {
           "title": "Installation",
-          "description": "We install and test all lighting for optimal performance."
+          "description": "We install fixtures and test for optimal performance."
         }
       ],
       "faqs": [
         {
-          "question": "Do you install outdoor lighting?",
-          "answer": "Yes, we install landscape, patio, and security lighting to enhance your property."
+          "question": "Can you install smart lighting systems?",
+          "answer": "Yes, we install and set up smart lighting with voice control, dimming, and scheduling."
         },
         {
-          "question": "Can you install dimmer switches?",
-          "answer": "Absolutely. We can add dimmers to most existing fixtures for adjustable ambiance."
+          "question": "Do you offer outdoor lighting for security?",
+          "answer": "Absolutely, we provide motion-sensor and landscape lighting to enhance security."
         }
       ],
-      "slug": "lighting-design-installation"
+      "slug": "lighting-installation-design"
     },
     {
       "icon": "04",
-      "title": "Commercial Electrical Services",
-      "shortDescription": "Reliable electrical solutions for businesses of all sizes.",
-      "longDescription": "Keep your business running with our commercial electrical services. We handle new construction wiring, data cabling, emergency repairs, and energy-efficient upgrades. Our team works around your schedule to minimize downtime and ensure compliance with commercial codes.",
+      "title": "Wiring & Rewiring Services",
+      "shortDescription": "Safe, code-compliant wiring for new builds and renovations.",
+      "longDescription": "Whether building new or remodeling, our rewiring services ensure your electrical system is safe, efficient, and up to code. We handle everything from rough-in to finish.",
       "benefits": [
-        "Minimal business disruption",
-        "Code-compliant installations",
-        "Ongoing maintenance plans available"
+        "Code-compliant work with permits handled",
+        "Reduced risk of electrical fires",
+        "Supports modern electrical loads"
       ],
       "process": [
         {
-          "title": "Site Survey",
-          "description": "We assess your facility and identify requirements."
+          "title": "Planning",
+          "description": "We design the wiring layout based on your needs."
         },
         {
-          "title": "Project Plan",
-          "description": "We provide a detailed timeline and cost breakdown."
+          "title": "Installation",
+          "description": "We run cables, install outlets, and connect systems."
         },
         {
-          "title": "Execution",
-          "description": "Our crew completes the work efficiently with regular updates."
+          "title": "Final Check",
+          "description": "We test all circuits and ensure everything works."
         }
       ],
       "faqs": [
         {
-          "question": "Do you offer maintenance contracts?",
-          "answer": "Yes, we offer customized maintenance plans to keep your electrical systems in top shape."
+          "question": "Do I need to rewire my old home?",
+          "answer": "If your home has aluminum wiring, knob-and-tube, or frequent issues, rewiring is recommended for safety."
         },
         {
-          "question": "Can you handle emergency repairs for businesses?",
-          "answer": "Yes, we provide 24/7 emergency service for commercial clients to minimize downtime."
+          "question": "Will rewiring disrupt my daily life?",
+          "answer": "We work efficiently to minimize downtime, often completing projects room by room."
         }
       ],
-      "slug": "commercial-electrical-services"
+      "slug": "wiring-rewiring-services"
     }
   ],
   "about": {
-    "headline": "Dallas's Trusted Electricians Since 2009",
-    "mission": "To provide safe, reliable, and professional electrical services that exceed customer expectations, with transparent pricing and a commitment to quality.",
+    "headline": "Your Trusted Dallas Electricians",
+    "mission": "To provide safe, reliable, and affordable electrical services with a focus on customer satisfaction and craftsmanship.",
     "story": [
-      "Electrics Contractor Pros was founded in 2009 by a team of master electricians who saw a need for honest, high-quality electrical work in the Dallas area. Starting with just a single truck, we built a reputation for reliability and craftsmanship, one job at a time. Over the years, we've grown into a full-service electrical contractor serving thousands of satisfied customers across Dallas and surrounding communities.",
-      "Today, we continue that tradition of excellence. Every member of our team is a licensed electrician who takes pride in their work. We invest in ongoing training and the latest tools to deliver superior results. Whether it's a simple outlet repair or a complex commercial installation, we treat every project with the same dedication to safety, quality, and customer satisfaction."
+      "Founded in 2009, Electrics Contractor Pros started as a small family operation serving Dallas neighborhoods. Our founder, a master electrician, saw a need for honest, high-quality electrical work in a market full of inconsistent contractors. We built our reputation one job at a time, emphasizing transparency and attention to detail.",
+      "Today, we serve hundreds of residential and commercial clients across Dallas. Our team continues to grow, but our values remain the same: treat every home like our own, communicate clearly, and never cut corners. We're proud to be a locally owned business that Dallas trusts."
     ],
     "highlight": {
       "stat": "15+",
-      "label": "Years of Service"
+      "label": "Years Serving Dallas"
     },
     "coreValues": [
       {
-        "title": "Safety First",
-        "description": "We never compromise on safety. Every job is performed to the highest standards to protect your family or business."
+        "title": "Integrity",
+        "description": "We do what we say, with honest pricing and reliable service."
       },
       {
-        "title": "Integrity",
-        "description": "We believe in honest communication, transparent pricing, and doing what's right, even when no one is watching."
+        "title": "Safety",
+        "description": "Every job follows strict safety standards to protect you and our team."
       },
       {
         "title": "Craftsmanship",
-        "description": "We take pride in our work. Our electricians are skilled professionals dedicated to delivering clean, precise installations."
+        "description": "We take pride in clean, precise work that stands the test of time."
       },
       {
-        "title": "Customer Focus",
-        "description": "Your satisfaction is our priority. We listen to your needs, answer your questions, and ensure you're happy with the result."
+        "title": "Community",
+        "description": "We support local businesses and give back to the Dallas community."
       }
     ]
   },
   "contact": {
     "headline": "Get in Touch",
-    "subheadline": "Ready to start your project? Call or fill out the form for a free estimate.",
+    "subheadline": "Ready to start your project? Call or fill out our form for a free estimate.",
     "primaryCta": "Call (214) 276-8442",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
-      "Highland Park",
-      "University Park",
-      "Lakewood",
-      "Preston Hollow",
-      "Park Cities",
-      "Oak Lawn",
-      "Uptown",
-      "Deep Ellum",
-      "Bishop Arts District"
+      "Fort Worth",
+      "Arlington",
+      "Plano",
+      "Garland",
+      "Irving",
+      "Mesquite",
+      "Richardson"
     ]
   },
   "social_proof": {
